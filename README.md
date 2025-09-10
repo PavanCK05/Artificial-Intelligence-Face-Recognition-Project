@@ -25,19 +25,6 @@ The project includes both the **source code** and a **PDF project report**.
 
 ---
 
-## 📂 Project Structure
-```
-AI_Project/
-├── Ai_Project.ipynb        # Jupyter notebook implementation
-├── Ai_Project.pdf          # Project report
-├── README.md               # Project description (this file)
-├── requirements.txt        # Dependencies
-└── src/
-    └── main_code.py        # Main face recognition code
-```
-
----
-
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
